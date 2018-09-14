@@ -1,2 +1,2 @@
 # University-Project
-This is a project from university where i connect a java app with a 3 table connected database.I haven't done this project alone i've had help with the class MyModel as well as doing the sql querries and some interface details because working with a database isn't my best skill.
+This is a project from university where i connect a java app with a 3 table connected database.In it i'm using the JDBC method which i know isn't as fast and effective as hybernate but i'm not that advanced.I haven't done this project alone i've had help with the class MyModel as well as doing the sql querries and some interface details because working with a database isn't my best skill.
